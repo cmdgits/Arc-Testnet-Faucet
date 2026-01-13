@@ -1,0 +1,10 @@
+{
+  "soluong_luong": 5,
+  "delay_giua_cac_vi": 60,
+  "chuc_nang": {
+    "mint_nft": { "bat_tat": false, "solan_thuchien": "1-1" },
+    "deploy_token": { "bat_tat": false, "solan_thuchien": "1-1" },
+    "register_name": { "bat_tat": false, "solan_thuchien": "1-1" },
+    "swap_usdc_to_token": { "bat_tat": true, "solan_thuchien": "3-6", "soluong_giaodich": "0.001-0.005" }
+  }
+}
